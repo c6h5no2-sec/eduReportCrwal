@@ -1,1 +1,3 @@
-# eduReportCrwal
+# EDUSRC报告爬取
+有时候需要把漏洞报告保存一份到本地，不方便保存，写了一个脚本，对部分进行了处理。结果保存为html文件，并转存为word
+python3环境
