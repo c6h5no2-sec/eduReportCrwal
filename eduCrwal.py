@@ -17,7 +17,7 @@ def defaultUrl(url):
     src = src.replace("src=\"/media/images/","src=\"https://src.sjtu.edu.cn/media/images/")
     #图片处理
     src = src.replace("href=\"","href=\"https://src.sjtu.edu.cn/profile/")
-    src = src.replace("<a href=\"https://src.sjtu.edu.cn/profile//profile/8411/\">F12sec_小小小月球</a>","请勿外传")
+    src = src.replace("<a href=\"https://src.sjtu.edu.cn/profile//profile/此处写一下uid/\">硝基苯</a>","请勿外传")
     #作者处理
     return src
 
