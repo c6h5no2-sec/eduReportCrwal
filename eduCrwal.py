@@ -63,6 +63,7 @@ def getHeader(src):
     name = name.replace("['","")
     name = name.replace("']","")
     name = name.replace(":","-")
+    name = name.replace(" ","-")
     print(name)
     return name
     
